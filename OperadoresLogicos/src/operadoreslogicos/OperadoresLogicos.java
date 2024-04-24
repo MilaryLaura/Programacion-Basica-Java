@@ -12,7 +12,7 @@ public class OperadoresLogicos {
         boolean resultadoOr = esVerdadero || esFalso;
         System.out.println("OR: " + resultadoOr);
         
-        //Operador NOT 0(!)
+        //Operador NOT (!)
         boolean resultadoNot = !esVerdadero;
         System.out.println("NOT: " + resultadoNot);
     }
