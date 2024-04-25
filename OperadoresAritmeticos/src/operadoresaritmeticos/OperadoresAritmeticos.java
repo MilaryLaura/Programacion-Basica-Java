@@ -34,4 +34,4 @@ public class OperadoresAritmeticos {
         int Modulo = variableUno % variableDos;
         System.out.println("Resultado Modulo: " + Modulo);
     }
-}
+} //Milary Yulyana Laura Machaca
